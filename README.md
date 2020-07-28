@@ -11,7 +11,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=emarkou&show_icons=true)
 
-
+ [![HitCount](http://hits.dwyl.com/emarkou/emarkou.svg)](http://hits.dwyl.com/emarkou/emarkou) ![](https://komarev.com/ghpvc/?username=emarkou&color=grey)
 
 
 <!--
