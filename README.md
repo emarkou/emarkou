@@ -5,7 +5,7 @@
 -  **Position :** Machine Learning / Software Engineer
 -  **Interests :** Deep Learning, Natural Language Processing
 -  **Software Stack :** Python, SQL, Tensorflow, Keras, Pytorch, Spark, Kafka
--  **Organization :** METIS Cyberspace Technology
+-  **Organization :** Beat
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
