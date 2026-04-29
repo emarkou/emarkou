@@ -47,8 +47,12 @@
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=ee4c2c)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=ff6f00)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=f7931e)
 ![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=flat-square&logo=xgboost&logoColor=58a6ff)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=58a6ff)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=langchain&logoColor=58a6ff)
+![Langfuse](https://img.shields.io/badge/Langfuse-0d1117?style=flat-square&logo=langfuse&logoColor=58a6ff)
+![Qiskit](https://img.shields.io/badge/Qiskit-0d1117?style=flat-square&logo=qiskit&logoColor=6929c4)
+![PennyLane](https://img.shields.io/badge/PennyLane-0d1117?style=flat-square&logo=pennylane&logoColor=58a6ff)
 
 **Data & Infra**
 
