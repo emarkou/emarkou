@@ -85,7 +85,7 @@ current = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/emarkou)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/eamarkou/)
 [![GitHub followers](https://img.shields.io/github/followers/emarkou?label=Follow&style=flat-square&color=58a6ff&labelColor=0d1117&logo=github)](https://github.com/emarkou)
 [![Profile views](https://komarev.com/ghpvc/?username=emarkou&style=flat-square&color=58a6ff&label=profile+views&base=100)](https://github.com/emarkou)
 
